@@ -17,4 +17,5 @@ The following picture is the user interface that I added for the Favorite Cast M
 
 Another task that I accomplished was to redesign the display links table. Attached is the before and after images.  
 
- ![Display Links Table Before](./ReadmePictures/Task2.png) ![Display Links Table After](./ReadmePictures/Task2-1.png) 
+ ![Display Links Table Before](./ReadmePictures/Task2.png) 
+ ![Display Links Table After](./ReadmePictures/Task2-1.png) 
